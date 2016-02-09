@@ -1,0 +1,44 @@
+label
+{
+  float: left;
+  width: 300px;
+}
+form p
+{
+  clear: left;
+}
+input[type="text"]
+{
+  width: 250px;
+  padding: 10px;
+}
+th{
+	padding: 5px;
+	width: 1000px;
+	border: solid black 1px;
+}
+td{
+	padding: 5px;
+	width: 1000px;
+	border: solid black 1px;
+}
+body{
+	background-image: url(redbackground.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font: Verdana;
+}
+div.container{
+	border: solid black 1px;
+}
+p{
+	font-family: Verdana;
+	}
+a:hover{
+	text-decoration: underline;
+	color: red;
+}
+a{
+	text-decoration: none;
+	color:blue
+}
